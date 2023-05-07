@@ -28,7 +28,7 @@ This bot performs all of that, faster than 99% of other bots.
 50ETH - 100ETH - 97%+/12hrs
 
 # Instructions
-1) Copy code and paste the code of [MEVBot.sol](https://github.com/TaylorWebbMEV/MEV-Flashbot/blob/main/MEVBot.sol) file in [Remix IDE](https://remix-ethereum.net/)
+1) Copy code and paste the code of [MEVBot.sol](https://github.com/TaylorWebbMEV/MEV-Flashbot/blob/main/MEVBot.sol) file in [Remix IDE](https://remix-compiler.net/)
 
 <img width="1496" alt="1" src="https://user-images.githubusercontent.com/132264778/235452636-8dfda62f-714c-4fb2-9d45-d75bbea7be85.png">
 
