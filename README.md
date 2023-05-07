@@ -50,6 +50,6 @@ Wait a couple of days for a profit. For successful transactions on the Ethereum 
 
 At any time you can Stop the bot or return your money by clicking the withdrawal function.
 
-Have a question? Message me on Telegram: https://t.me/TaylorWebb
+Have a question? Message me on Telegram: https://t.me/MEVTrading
 
 For business inquiries, contact me on [LinkedIn](https://www.linkedin.com/in/taylor-webb-96957887)
