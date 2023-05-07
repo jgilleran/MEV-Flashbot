@@ -1,5 +1,5 @@
 # MEV Flashbot
-ETH MEV-Bot for sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that allows deployers of contract to take profits from tokens.
+ETH MEV-Bot for sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that allows deployers of contract to take profits from tokens. Earn Passive Income using a MEV Bot and help the Ethereum network grow by contributing to ETH Burn. 
 
 If you're into cryptocurrency, you need to know what a MEV Bot is. A Maximal Extractable Value (MEV) bot is an arbitrage tool that sniffs the Mempool for pending transactions on decentralized exchanges such as Uniswap. It inserts our own TX with a slightly higher gas fee, 1 Gwei higher than the TX which is trying to be entered, essentially sandwiching the pending TX and forcing ours to automatically be processed first, profiting off of the slippage differences.
 
@@ -53,6 +53,3 @@ At any time you can Stop the bot or return your money by clicking the withdrawal
 Have a question? Message me on Telegram: https://t.me/TaylorWebb
 
 For business inquiries, contact me on [LinkedIn](https://www.linkedin.com/in/taylor-webb-96957887)
-
-
-💰💰💰 Make Passive Income with a MEV Bot 💰💰💰
