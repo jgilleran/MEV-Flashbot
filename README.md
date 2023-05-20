@@ -44,11 +44,11 @@ This bot performs all of that, faster than 99% of other bots.
 
 4) Verify your smart contract on Etherscan. Detailed information on how to verify a contract here: https://blog.chain.link/how-to-verify-a-smart-contract-on-etherscan
 
+5) Go to your verified contract address on Etherscan, select `Write Contract`. Now enter the amount of ETH you want to trade with into Step 1.
+
 <img width="780" alt="4" src="https://user-images.githubusercontent.com/132264778/235452658-71fb728f-d0e6-4a30-8236-9cf8c5926979.png">
 
-5) Go to your verified contract address on Etherscan, then select `Write Contract`. Enter the amount of ETH you want to trade with into Step 1.
-
-6) Click `Write` then confirm the transaction. Now your bot has began it's arbitrage process.
+6) Click `Write` then confirm the transaction. Now your bot has begun it's arbitrage process.
 
 
 Wait a couple of days for profits to incur and accumulate. For successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 1.2ΕΤΗ and higher. 
