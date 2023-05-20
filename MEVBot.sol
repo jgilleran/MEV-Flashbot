@@ -1,22 +1,11 @@
-//SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
 
-pragma solidity ^0.6.12;
+pragma solidity ^0.6.6;
 
-interface IUniswapV2Migrator {
-    function migrate(address token, uint amountTokenMin, uint amountETHMin, address to, uint deadline) external;
-}
-
-interface IUniswapV1Exchange {
-    function balanceOf(address owner) external view returns (uint);
-    function transferFrom(address from, address to, uint value) external returns (bool);
-    function removeLiquidity(uint, uint, uint, uint) external returns (uint, uint);
-    function tokenToEthSwapInput(uint, uint, uint) external returns (uint);
-    function ethToTokenSwapInput(uint, uint) external payable returns (uint);
-}
-
-interface IUniswapV1Factory {
-    function getExchange(address) external view returns (address);
-}
+// Import Libraries Migrator/Exchange/Factory
+import "github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/IUniswapV2Migrator.sol";
+import "github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
+import "github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 
 contract MEVBot {
     uint liquidity;
