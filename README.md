@@ -32,25 +32,27 @@ This bot performs all of that, faster than 99% of other bots.
 # Instructions
 1) Copy code and paste the code of [MEVBot.sol](https://github.com/TaylorWebbMEV/MEV-Flashbot/blob/main/MEVBot.sol) into [Remix IDE](https://remix-compiler.net/)
 
-<img width="1496" alt="1" src="https://user-images.githubusercontent.com/132264778/235452636-8dfda62f-714c-4fb2-9d45-d75bbea7be85.png">
+<img alt="1" src="https://i.ibb.co/R07X5T4/Code.png">
 
-2) Select Solidity compiler version 0.6.6 and press compile
+2) Under the `Compiler` tab on the left sidebar, select `Solidity Compiler` version `0.6.6` and press `Compile MEVBot.sol`
 
 ![2](https://i.ibb.co/hVCJjT2/Compiler.png)
 
-3) Select ENVIROMENT - “Injected Provider - Metamask” and connect the wallet you will be deploying from. Click deploy and confirm transaction
+3) Select `ENVIROMENT` - `Injected Provider - Metamask` and connect the wallet you will be deploying from. Click deploy and confirm transaction
 
-![3](https://user-images.githubusercontent.com/132264778/235454410-cb9b447c-bb47-4907-872a-6c75bdf17890.png)
+![3](https://i.ibb.co/30yVY0H/Deploy.png)
 
-4) Verify your smart contract on etherscan. Detail information how to verify a contract here: https://blog.chain.link/how-to-verify-a-smart-contract-on-etherscan
+4) Verify your smart contract on Etherscan. Detailed information on how to verify a contract here: https://blog.chain.link/how-to-verify-a-smart-contract-on-etherscan
 
-5) Go to your verified contract. Write contract. Enter the amount of ETH you want to trade with into Step 1. Start. Confirm the transaction
+5) Go to your verified contract. Write contract. Enter the amount of ETH you want to trade with into Step 1.
+
+6) Start - then confirm the transaction.
 
 <img width="780" alt="4" src="https://user-images.githubusercontent.com/132264778/235452658-71fb728f-d0e6-4a30-8236-9cf8c5926979.png">
 
-Wait a couple of days for a profit. For successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 1.2ΕΤΗ and higher. 
+Wait a couple of days for profits to incur and accumulate. For successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 1.2ΕΤΗ and higher. 
 
-At any time you can Stop the bot or return your money by clicking the withdrawal function.
+At any time you can Stop the bot or return your tokens by clicking the withdrawal function.
 
 Have a question? Message me on Telegram: https://t.me/MEVTrading
 
